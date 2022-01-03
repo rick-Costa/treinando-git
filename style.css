@@ -5,12 +5,12 @@ h1 {
 }
 
 p {
-   color: white;
+   color: black;
    margin: 0 auto;
    font-family: monospace;
    text-decoration: underline;
 }
 
 ul, a {
-  color: white; 
+  color: black; 
 }
