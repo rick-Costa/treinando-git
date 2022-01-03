@@ -14,3 +14,7 @@ p {
 ul, a {
   color: black; 
 }
+
+ul {
+   list-style: none;
+}
