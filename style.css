@@ -8,3 +8,10 @@ h1 {
    text-align: center;
 }
 
+p {
+   color: white;
+   margin: 0 auto;
+   font-family: monospace;
+   text-decoration: underline;
+}
+
