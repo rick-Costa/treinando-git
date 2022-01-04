@@ -18,3 +18,7 @@ ul, a {
 ul {
    list-style: none;
 }
+
+footer {
+   background-color: aliceblue;
+}
